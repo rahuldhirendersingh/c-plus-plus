@@ -1,0 +1,4 @@
+1. give your variable a proper descriptive name
+2. cannot contain any special character except underscore
+3. cannot begin with number
+4. cannot use space inside/between your variable name
